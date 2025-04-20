@@ -1,8 +1,8 @@
 # Student Data Entry Application
 
-**Name:** Your Name  
-**PRN:** YourPRN  
-**Batch:** YourBatch
+**Name:** Neil Cardoz
+**PRN:** 23070126079  
+**Batch:** 23-27
 
 ## Description
 
